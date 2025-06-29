@@ -15,11 +15,11 @@ Found a bug or want to suggest a feature?
 Use the [Issues](https://github.com/yesyesgames/trackl/issues) section to report problems or share ideas.
 
 ### 📱 Platforms  
-Currently available for **Android**  
-(iOS version planned)
-(WebGL version planned)
-(Steam version planned)
-(PC version planned)
+- Currently available for **Android**  
+- (iOS version planned)
+- (WebGL version planned)
+- (Steam version planned)
+- (PC version planned)
 
 ---
 
