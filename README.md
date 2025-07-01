@@ -26,7 +26,7 @@ Trackl is currently in development and free to download. Features may change. Mo
 
 ### 📱 Platforms  
 - Currently available for
-  - Android
+  - Android (coming soon/first)
 - Planned
   - iOS
   - WebGL
