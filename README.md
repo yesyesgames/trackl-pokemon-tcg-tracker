@@ -1,38 +1,54 @@
-# Trackl - Pokémon
+# Trackl – Pokémon TCG Tracker
 
-**Trackl** is a modern and minimalistic tracker app for Pokémon Trading Card Game (TCG) collectors.  
+Trackl is a modern, minimalistic tracker app for Pokémon Trading Card Game (TCG) collectors.
 
 ### 🧩 Key Features
-- Smart search by card name or number
-  - Use letters to find cards by name
-  - Use numbers like 151/165 or just 042131
-- Track multiple variants of the same card*
-  - Supports all known variants (holofoils, normal, vmax, etc.)
-- Add cosmetic labels like language or card coatings
-  - German, English, Japanese
-  - Cosmic holo, Rainbow holo, miss-print and others
+- Smart search by card name or ID
+  - Type letters to search by name
+  - Use IDs like 151/165 or even raw numbers like 042131
+- Track multiple variants* of the same card
+  - Supports all known types: holofoils, reverse, VMAX, Illustration Art, etc.
+- Add cosmetic attributes like language or finish
+  - Language options: English, German, Japanese
+  - Finishes: Cosmic Holo, Rainbow Holo, misprints, and more
 - Organize and filter your collection easily
-  - Filter your collection by letters or numbers
-- Market price information  
+  - Filter by card name, number, language, finish, and more
+- View market price* information
 - Clean, distraction-free design
 
-* Variants & prices are extraced from TCGPlayer data thus, if no price for a variant is given the card will not apear.
+*Variants and prices are sourced from TCGPlayer. If no price data is available for a variant, it may not be shown.
 
-### 🤝 Contributing / Issues  
-Found a bug or want to suggest a feature?  
-Use the [Issues](https://github.com/yesyesgames/trackl/issues) section to report problems or share ideas.
+### 🤝 Contributing / Issues
+- Found a bug or want to suggest a feature?
+- Open an issue here: [https://github.com/yesyesgames/trackl/issues](https://github.com/yesyesgames/trackl/issues)
 
-The app is still in development and features are subject of change.
+Trackl is currently in development and free to download. Features may change. Monetization will be decided later.
 
 ### 📱 Platforms  
 - Currently available for
-  - **Android**  
+  - Android
 - Planned
   - iOS
   - WebGL
   - Steam
   - PC
   - Mac
+ 
+### 📄 Licenses
+Trackl is a closed-source project.  
+All rights reserved ©YesYesGames - 2025.
+
+Third-party APIs & SDKs are used under their respective terms.
+- Pokémon TCG API
+  - https://pokemontcg.io/
+- DOTween
+  - Copyright Daniele Giardini - Demigiant
+- .NET Core Libraries
+  - Copyright .NET Foundation and Contributors
+
+Pokémon is a registered trademark of Nintendo, Game Freak, and Creatures Inc.  
+This app is a fan project and is not affiliated with or endorsed by The Pokémon Company.
+
 
 ---
 
