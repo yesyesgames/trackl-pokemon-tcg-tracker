@@ -5,18 +5,19 @@ Trackl is a modern, minimalistic tracker app for Pokémon Trading Card Game (TCG
 ### 🧩 Key Features
 - Smart search by card name or ID
   - Type letters to search by name
-  - Use IDs like 151/165 or even raw numbers like 042131
+  - Use numbers like 042/131 or just 042131
 - Track multiple variants* of the same card
   - Supports all known types: holofoils, reverse, VMAX, Illustration Art, etc.
-- Add cosmetic attributes like language or finish
+- Add cosmetic attributes like language, condition or coating
   - Language options: English, German, Japanese
-  - Finishes: Cosmic Holo, Rainbow Holo, misprints, and more
+  - Coatings: Cosmic Holo, Rainbow Holo, misprints, and more
 - Organize and filter your collection easily
-  - Filter by card name, number, language, finish, and more
-- View market price* information
+  - Filter by card name or number
+- View market price** information
 - Clean, distraction-free design
 
-*Variants and prices are sourced from TCGPlayer. If no price data is available for a variant, it may not be shown.
+*Variants and prices are sourced from TCGPlayer. If no price data is available for a variant, it may not be shown.  
+**Price reflects average market values only and does not represent individual listings.
 
 ### 🤝 Contributing / Issues
 - Found a bug or want to suggest a feature?
