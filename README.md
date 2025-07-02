@@ -23,12 +23,13 @@ Trackl is a modern, minimalistic tracker app for Pokémon Trading Card Game (TCG
 - Found a bug or want to suggest a feature?
 - Open an issue here: [https://github.com/yesyesgames/trackl/issues](https://github.com/yesyesgames/trackl/issues)
 
-Trackl is currently in development and free to download. Features may change. Monetization will be decided later.
+Trackl is currently in development and free to download.  
+Features may change and monetization will be added later.
 
 ### 📱 Platforms  
 - Currently available for
-  - Android (comming soon/first)
-- Planned
+  - Android
+- Comming soon
   - iOS
   - WebGL
   - Steam
