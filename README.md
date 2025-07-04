@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="http://misc.yesyesgames.de/trackl/feature-graphic-android.webp" width="*"/>
+<!-- <img src="http://misc.yesyesgames.de/trackl/screenshots-android.webp" width="*"/> -->
+
+___
+
 # Trackl – Pokémon TCG Tracker
 
 Trackl is a modern, minimalistic tracker app for Pokémon Trading Card Game (TCG) collectors.
+
+  <img src="http://misc.yesyesgames.de/trackl/landscapes-android.webp" width="*"/>
 
 ### 🧩 Key Features
 - Smart search by card name or ID
@@ -56,3 +64,4 @@ This app is a fan project and is not affiliated with or endorsed by The Pokémon
 ---
 
 Made with ❤️ by me
+</p>
