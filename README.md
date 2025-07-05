@@ -56,6 +56,8 @@ Third-party APIs & SDKs are used under their respective terms.
   - Copyright Daniele Giardini - Demigiant
 - .NET Core Libraries
   - Copyright .NET Foundation and Contributors
+- Fredoka Font
+  - Copyright Google Fonts and Milena Brandão, Hafontia 
 
 Pokémon is a registered trademark of Nintendo, Game Freak, and Creatures Inc.  
 This app is a fan project and is not affiliated with or endorsed by The Pokémon Company.
