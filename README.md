@@ -12,9 +12,10 @@ Trackl is a modern, minimalistic tracker app for Pokémon Trading Card Game (TCG
 
 ### 🧩 Key Features
 - Smart search by card name or ID
-  - Type letters to search by name: 'mew'
-  - Use numbers like '042/131' or just '042131'
-  - Combine sets with numbers: 'sve 001'
+  - Type letters to search by name: `mew`
+  - Use `*` as a wildcard to match word parts, e.g. `mew*ex`
+  - Use numbers like `042/131` or just `042131`
+  - Combine sets with numbers: `sve 001`
 - Track multiple variants* of the same card
   - Supports all known types: holofoils, reverse, VMAX, Illustration Art, etc.
 - Add cosmetic attributes like language, condition or coating
@@ -25,15 +26,15 @@ Trackl is a modern, minimalistic tracker app for Pokémon Trading Card Game (TCG
 - View market price** information
 - Clean, distraction-free design
 
-*Variants and prices are sourced from TCGPlayer. If no price data is available for a variant, it may not be shown.  
-**Price reflects average market values only and does not represent individual listings.
+_*Variants and prices are sourced from TCGPlayer. If no price data is available for a variant, it may not be shown._  
+_**Price reflects average market values only and does not represent individual listings._
 
 ### 🤝 Contributing / Issues
 - Found a bug or want to suggest a feature?
 - Open an issue here: [Trackl issues](https://github.com/yesyesgames/trackl/issues)
 - FAQ: [Discussions - Q&A](https://github.com/yesyesgames/trackl-pokemon-tcg-tracker/discussions/categories/q-a)
 
-Trackl is currently in development and free to download.  
+Trackl is still in development and free to download.  
 Features may change and monetization will be added later.
 
 ### 📱 Platforms  
@@ -45,6 +46,8 @@ Features may change and monetization will be added later.
   - Steam
   - PC
   - Mac
+ 
+[Which platforms should Trackl support next?](https://github.com/yesyesgames/trackl-pokemon-tcg-tracker/discussions/11)
  
 ### 📄 Licenses
 Trackl is a closed-source project.  
