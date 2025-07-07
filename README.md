@@ -12,8 +12,9 @@ Trackl is a modern, minimalistic tracker app for Pokémon Trading Card Game (TCG
 
 ### 🧩 Key Features
 - Smart search by card name or ID
-  - Type letters to search by name
-  - Use numbers like 042/131 or just 042131
+  - Type letters to search by name: 'mew'
+  - Use numbers like '042/131' or just '042131'
+  - Combine sets with numbers: 'sve 001'
 - Track multiple variants* of the same card
   - Supports all known types: holofoils, reverse, VMAX, Illustration Art, etc.
 - Add cosmetic attributes like language, condition or coating
