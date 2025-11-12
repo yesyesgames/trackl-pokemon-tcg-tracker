@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="http://misc.yesyesgames.de/trackl/feature-graphic-android.webp?" width="*"/>
+<!--  <img src="http://misc.yesyesgames.de/trackl/feature-graphic-android.webp?" width="*"/> -->
 <!-- <img src="http://misc.yesyesgames.de/trackl/screenshots-android.webp?" width="*"/> -->
 
 ___
 
-# Trackl – Pokémon TCG Tracker
+# Trackl – TCG Tracker
 
 Trackl is a modern, minimalistic tracker app for Pokémon Trading Card Game (TCG) collectors.
 
-  <img src="http://misc.yesyesgames.de/trackl/landscapes-android.webp?" width="*"/>
+<!-- <img src="http://misc.yesyesgames.de/trackl/landscapes-android.webp?" width="*"/> -->
 
 ### 🧩 Key Features
 - Smart search by card name or ID
@@ -62,9 +62,10 @@ Third-party APIs & SDKs are used under their respective terms.
 - Fredoka Font
   - Copyright Google Fonts and Milena Brandão, Hafontia 
 
+---
+
 Pokémon is a registered trademark of Nintendo, Game Freak, and Creatures Inc.  
 This app is a fan project and is not affiliated with or endorsed by The Pokémon Company.
-
 
 ---
 
